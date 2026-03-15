@@ -1,0 +1,54 @@
+.cli-window{
+    width: 100%;
+    height: 100%;
+    padding: 0.4rem;
+
+    div[name="react-console-emulator"]{
+        width: 100%;
+        height: 100%;
+
+        background: rgba(10,18,8,0.95) !important;
+        border-radius: 0.4rem;
+
+        font-family: "Fira Code","JetBrains Mono",monospace;
+        font-size: 0.9rem;
+        line-height: 1.45;
+
+        padding: 0.35rem !important;
+
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+
+    /* remove internal spacing */
+    div[name="react-console-emulator"] *{
+        margin: 0;
+        padding-bottom:0;
+    }
+
+    /* prompt */
+    div[name="react-console-emulator"] span{
+        color: #00ff88;
+        font-weight: 500;
+    }
+
+    /* output text */
+    div[name="react-console-emulator"] p{
+        margin: 0.25rem 0;
+        color: #e6e6e6;
+    }
+
+    /* scrollbar */
+    div[name="react-console-emulator"]::-webkit-scrollbar{
+        width: 6px;
+    }
+
+    div[name="react-console-emulator"]::-webkit-scrollbar-thumb{
+        background: rgba(0,255,136,0.4);
+        border-radius: 6px;
+    }
+
+    div[name="react-console-emulator__content"]{
+        padding: 0.35rem !important;
+    }
+}

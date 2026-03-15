@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1769228092677-9f2d7d7c19f3?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Snake Game",
+        "description": "A classic Snake Game built using JavaScript where the player controls a snake to collect food while avoiding collisions with walls and itself. The project demonstrates game logic implementation, keyboard controls, score tracking, and dynamic rendering in the browser.",
+        "tags": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Game Logic",
+            "DOM Manipulation"
+        ],
+        "repoLink": "https://github.com/chaitanya-218/snake-game-",
+        "demoLink": "https://chaitanya-218.github.io/snake-game-/"
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1771503735122-22405ba958f9?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Instagram Reels Clone",
+        "description": "A web-based Instagram Reels style interface that displays vertical short-form videos with smooth scrolling and interactive UI. The project focuses on recreating the reels viewing experience using modern frontend technologies.",
+        "tags": [
+            "React",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Frontend UI Development"
+        ],
+        "repoLink": "https://github.com/chaitanya-218/instagram-reels-project-",
+        "demoLink": "https://chaitanya-218.github.io/instagram-reels-project-/"
+    },
+    {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1759583545970-0106ff47353f?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Melody Piano",
+        "description": "An interactive virtual piano application that allows users to play musical notes using keyboard inputs or mouse clicks. The project demonstrates event handling, audio playback in the browser, and responsive UI design.",
+        "tags": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Audio API",
+            "Event Handling"
+        ],
+        "repoLink": "https://github.com/chaitanya-218/Melody-PIANO",
+        "demoLink": "https://chaitanya-218.github.io/Melody-PIANO/"
+    }
+]

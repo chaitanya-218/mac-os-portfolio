@@ -1,0 +1,105 @@
+
+export const intro = `
+Hi, I'm Chaitanya Pathak.
+
+Software Developer | Problem Solver | Builder
+
+I enjoy building practical software and turning ideas into real products.
+My interests lie in full-stack development, data engineering, and problem solving.
+
+Currently focusing on improving Data Structures & Algorithms,
+building real-world projects, and exploring startup product development.
+`
+
+export const experience = {
+  company: "OstrichQuiz",
+  role: "AI Content Generation Intern",
+  focus: "Prompt Engineering & Data Generation Lead",
+
+  highlights: [
+    "Led a team of 5 interns to generate large-scale educational datasets",
+    "Designed prompt-engineered templates for boards, grades, subjects and chapters",
+    "Used AI tools like ChatGPT and Grok for structured educational data generation",
+    "Completed 8 months worth of content generation in 1 month",
+    "Built Python automation scripts for generating JSON structures",
+    "Worked with MySQL schema design for boards, chapters and content objects"
+  ]
+}
+
+export const projects = [
+  {
+    name: "Physiotherapy Pose Detection System",
+    description: [
+      "Real-time posture detection using OpenPose",
+      "Logistic regression used for posture classification",
+      "Designed for physiotherapy posture correction"
+    ]
+  },
+
+  {
+    name: "IoT Smart Parking System",
+    description: [
+      "Prototype smart parking system",
+      "LED indicators used for slot availability"
+    ]
+  },
+
+  {
+    name: "Student Attendance System",
+    description: [
+      "Built with PHP and MySQL",
+      "Database design for student and attendance records",
+      "CRUD operations implemented"
+    ]
+  },
+
+  {
+    name: "MacOS Portfolio",
+    description: [
+      "MacOS-style portfolio interface using React",
+      "Draggable windows using react-rnd",
+      "Reusable UI components simulating desktop environment"
+    ]
+  }
+]
+
+export const skills = {
+  languages: ["Python", "JavaScript", "PHP", "SQL"],
+
+  web: ["React", "HTML", "CSS", "SCSS", "Bootstrap"],
+
+  backend: [
+    "MySQL",
+    "JSON data structures",
+    "CRUD operations",
+    "API fundamentals"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "OpenPose",
+    "Prompt Engineering",
+    "AI-assisted content generation"
+  ],
+
+  fundamentals: [
+    "Data Structures & Algorithms",
+    "Object Oriented Programming",
+    "Database Design",
+    "Problem Solving"
+  ]
+}
+
+export const currentlyLearning = [
+  "Advanced Data Structures & Algorithms",
+  "Backend development and scalable systems",
+  "Data engineering concepts",
+  "Building startup products"
+]
+
+export const contact = {
+  email: "chaitanya21pathak8@gmail.com",
+  linkedin: "https://www.linkedin.com/in/chaitanya-pathak-51b526229/",
+  github: "https://github.com/chaitanya-218"
+}
