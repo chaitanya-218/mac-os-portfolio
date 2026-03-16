@@ -1,6 +1,6 @@
 import React from "react";
 import MacWindow from "./MacWindow";
-import githubData from "/Users/chaitanyam2/study/cohort 2.0/react/D1/Mac_Os_Portfolio/Mac_Portfolio/src/assets/github.json";
+import githubData from "../../assets/github.json";
 import "./Github.scss";
 
 const GitCard = ({ Data = { ...githubData } }) => {
